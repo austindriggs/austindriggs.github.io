@@ -11,18 +11,21 @@ redirect_from:
 
 ## Education
 
-**West Virginia University: Aug 2022 - May 2026**
+### West Virginia University
+Aug 2022 - May 2026
 - B.S. in Electrical Engineering, B.S. in Computer Engineering, Minor in Computer Science. 
 - Currently maintaining a 3.9 GPA.
 - Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC)
 - Member of IEEE Socitety at WVU.
 
-**Zane State College:	Aug 2020 - May 2022**
+### Zane State College
+Aug 2020 - May 2022
 - A.S. in Electro-mechanical Engineering Technology
 - Graduated Summa Cum Laude.
 - Attended full-time my junior and senior years of high school. 
 
-**John Glenn High School: Aug 2018 - May 2022**
+### John Glenn High School
+Aug 2018 - May 2022
 
 
 ## Work Experience
