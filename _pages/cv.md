@@ -36,7 +36,7 @@ May 2023 - Present
 - Develop test boards and write automated testing scripts/procedures for production PCBs.
 - Created documentation for all LiDAR PCBs’ designs, calculations, and change logs.
 
-> Read more [here](http://austindriggs.github.io/portfolio/redtail).
+> Read more about my experience at 4D Tech and [RedTail LiDAR](http://austindriggs.github.io/portfolio/redtail).
 
 ### Electro-mechanical Engineering Intern at Quanex IGS (Cambridge, OH)
 May 2022 - Aug 2022
