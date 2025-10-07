@@ -1,6 +1,6 @@
 ---
 title: "Digital Picture Frame"
-excerpt: "A digital picture frame integrated into my homelab. Click the image below for a video demo on YouTube:<br/><img src='/images/driggs-kiosk.jpg' alt='Driggs Kiosk Demo' width='500' style='border:0;'>"
+excerpt: "A digital picture frame client integrated into my homelab. <br/><img src='/images/driggs-kiosk.jpg' alt='Driggs Kiosk Demo' width='500' style='border:0;'>"
 collection: portfolio
 ---
 
