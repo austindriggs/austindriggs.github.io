@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Austin's Homepage'"
+title                    : "Austin's Portfolio"
 title_separator          : "-"
 name                     : &name "Austin Driggs"
-description              : &description "Austin Driggs webpage for things"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "My academic and professional portfilio."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://austindriggs.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "austindriggs.github.io"
@@ -24,12 +24,12 @@ repository               : "austindriggs.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Austin Driggs sidebar"
+  name             : "Austin Driggs"
   pronouns         : # example: "she/her"  
-  bio              : "Electronics Engineer"
-  location         : "Morgantown, WV"
+  bio              : "Electronics Engineer and Enthusiast"
+  location         : "Morgantown, West Virginia"
   employer         : "4D Tech Solutions"
-  uri              : # URL
+  uri              : https://4dtechsolutions.com
   email            : "austin26driggs@gmail.com" 
 
   # Academic websites
