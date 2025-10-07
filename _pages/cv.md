@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
@@ -35,6 +36,8 @@ May 2023 - Present
 - Develop test boards and write automated testing scripts/procedures for production PCBs.
 - Created documentation for all LiDAR PCBs’ designs, calculations, and change logs.
 
+> Read more [here](http://austindriggs.github.io/portfolio/redtail).
+
 ### Electro-mechanical Engineering Intern at Quanex IGS (Cambridge, OH)
 May 2022 - Aug 2022
 - Designed PCB with microcontroller to read from PLCs to determine the accuracy and acceptance of the width of insulation being manufactured on tens of manufacturing lines in real time.
@@ -58,6 +61,6 @@ Photovoltaic Installer (ETA), OSHA 10, Lean Six Sigma Yellow Belt, U.S. Soccer R
 
 ## Hobbies
 
-- Built a homelab with Network Attached Storage (NAS) and many locally running services.
+- Built a [homelab](http://austindriggs.github.io/portfolio/homelab) with Network Attached Storage (NAS) and many locally running services.
 - I enjoy playing adult/sunday league soccer, cooking, lifting/running, and snowboarding. 
 - Playing soccer at John Glenn High School, I made the All-Ohio team, was a 2-year captain, 4-year letterman, and 4-year Muskingum Valley Scholar Athlete. 

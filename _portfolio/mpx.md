@@ -1,9 +1,9 @@
 ---
 title: "Macaroni OS"
-excerpt: "Group project todo.<br/><img src='/images/500x300.png'>"
+excerpt: "A freestanding C environment, dubbed 'Macaroni OS', developed in a group project for Operating System Structures (CS450) at WVU in Fall 2025."
 collection: portfolio
 ---
 
-# Mac OS
+A freestanding C environment, dubbed "Macaroni OS", developed in a group project for Operating System Structures (CS450) at WVU in Fall 2025.
 
-TODO
+ee more on my GitHub: [austindriggs/mpx-os](https://github.com/austindriggs/mpx-os).
