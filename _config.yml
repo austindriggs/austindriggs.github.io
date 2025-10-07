@@ -23,7 +23,7 @@ repository               : "austindriggs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Austin Driggs"
   pronouns         : # example: "she/her"  
   bio              : "Electronics Engineer and Enthusiast"
