@@ -1,10 +1,7 @@
 ---
 layout: archive
-title: "Austin Driggs - Electronics Engineer and Enthusiast"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
