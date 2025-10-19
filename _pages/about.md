@@ -10,3 +10,8 @@ redirect_from:
 ## INTRODUCTION
 
 Aspiring Electrical and Software Engineer!
+
+
+## GOALS
+
+I strive to be the best I can be at everything I do, and I want to be in an environment that constantly pushes and challenges me.
