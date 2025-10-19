@@ -4,8 +4,8 @@ excerpt: "Developed CRUD website to determine users’ RFID permissions on manuf
 collection: portfolio
 ---
 
-Developed CRUD website to determine users’ RFID permissions on manufacturing line.
+---
 
-TODO_IMAGE
+Developed the full stack for a CRUD website to determine users’ RFID permissions on manufacturing line.
 
-See more on my GitHub: [austindriggs/homelab/driggs-kiosk/](https://github.com/austindriggs/homelab/tree/main/driggs-kiosk).
+![Quanex Website](/images/quanex-website.png)

@@ -4,4 +4,8 @@ excerpt: "Electronics Lead at WVU for Mars Society’s University Rover Challeng
 collection: portfolio
 ---
 
-I was the Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC).
+---
+
+I am the Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC).
+
+See more on GitHub: https://github.com/wvu-urc/

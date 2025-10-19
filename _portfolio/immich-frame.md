@@ -4,6 +4,8 @@ excerpt: "A digital picture frame client integrated into my homelab. <br/><img s
 collection: portfolio
 ---
 
+---
+
 I made a digital picture frame client that recieves images from my Immich server on my [homelab](https://austindriggs.github.io/portfolio/homelab) and displays them onto a digital picture frame I made with a Raspberry Pi and portable monitor.
 
 Click the image below for a video demo on YouTube:  

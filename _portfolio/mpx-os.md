@@ -4,6 +4,8 @@ excerpt: "A freestanding C environment, dubbed 'Macaroni OS', developed in a gro
 collection: portfolio
 ---
 
+---
+
 A freestanding C environment, dubbed "Macaroni OS", developed in a group project for Operating System Structures (CS450) at WVU in Fall 2025.
 
 ![Macaroni OS](/images/macaronios.png)

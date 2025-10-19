@@ -10,10 +10,7 @@ collection: portfolio
 
 Playing soccer at John Glenn High School, I made the All-Ohio team, was a 2-year captain, 4-year letterman, and 4-year Muskingum Valley Scholar Athlete.
 
-Click the image below for a video demo on YouTube:  
-<a href="https://www.youtube.com/watch?v=NeSkeHkIKjA" target="_blank">
-  <img src="/images/driggs-kiosk.jpg" alt="Driggs Kiosk Demo" width="1000" style="border:0;">
-</a>
+My highlights are on my YouTube channel: [Austin Driggs All-Ohio JGHS Soccer Highlights - Class of 2022](https://youtu.be/cfyz4in08KM).
 
 ---
 
