@@ -19,3 +19,7 @@ I designed a PCB with microcontroller to read from PLCs to determine the accurac
 ## ASSMEBLY
 
 ![Quanex PCB - Assembly](/images/quanex-pcb-4assembly.jpg)
+
+## NOTES
+
+Please don't judge this board, I've done much better work in the years following this design!

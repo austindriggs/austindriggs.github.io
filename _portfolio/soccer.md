@@ -12,7 +12,7 @@ Playing soccer at John Glenn High School, I made the All-Ohio team, was a 2-year
 
 My highlights are on my YouTube channel: [Austin Driggs All-Ohio JGHS Soccer Highlights - Class of 2022](https://youtu.be/cfyz4in08KM).
 
----
+
 
 ## TRAINING
 

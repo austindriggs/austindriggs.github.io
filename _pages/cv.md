@@ -17,6 +17,8 @@ Something here
 
 ## EXPERIENCE
 
+---
+
 ### Electronics Engineer - 4D Tech Solutions (Fairmont, WV)
 *May 2023 - Present*
 - Responsible for design/development of printed circuit boards (PCBs) in [RedTail LiDAR](http://austindriggs.github.io/portfolio/redtail) systems.
@@ -38,9 +40,11 @@ Something here
 *April 2019 - Oct 2023*
 - Individually organized, planned, and ran multiple summer-long [trainings](http://austindriggs.github.io/portfolio/soccer) for groups of dozens of students in my community to better their technical skills, IQ, and love for the game.
 
----
+
 
 ## EDUCATION
+
+---
 
 ### West Virginia University
 *Aug 2022 - May 2026*
@@ -59,9 +63,11 @@ Something here
 - I attended Zane State College full-time my junior and senior years of high school. 
 - Playing [soccer](http://austindriggs.github.io/portfolio/soccer) at John Glenn High School, I made the All-Ohio team, was a 2-year captain, 4-year letterman, and 4-year Muskingum Valley Scholar Athlete. 
 
----
+
 
 ## SKILLS AND CERTIFICATIONS
+
+---
 
 ### Skills
 PCB Design, KiCad, PCB Assembly, PCB Testing, Soldering (SMD and through-hole), C, Python (basics/scripting), Git, Autodesk Inventor and AutoCAD, Passion and Leadership.
