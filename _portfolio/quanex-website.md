@@ -1,11 +1,11 @@
 ---
 title: "CRUD Website for Quanex"
-excerpt: "Developed CRUD website to determine users’ RFID permissions on manufacturing line."
+excerpt: "Developed a full stack CRUD web app to manage employees' RFID permissions on manufacturing lines."
 collection: portfolio
 ---
 
 ---
 
-Developed the full stack for a CRUD website to determine users’ RFID permissions on manufacturing line.
+Developed a full stack CRUD web app to manage employees' RFID permissions on manufacturing lines.
 
 ![Quanex Website](/images/quanex-website.png)

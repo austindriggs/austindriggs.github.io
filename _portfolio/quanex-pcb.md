@@ -16,7 +16,7 @@ I designed a PCB with microcontroller to read from PLCs to determine the accurac
 
 ![Quanex PCB - 2D](/images/quanex-pcb-2d.png) ![Quanex PCB - 3D](/images/quanex-pcb-3d.png)
 
-## ASSMEBLY
+## ASSEMBLY
 
 ![Quanex PCB - Assembly](/images/quanex-pcb-4assembly.jpg)
 

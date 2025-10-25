@@ -6,7 +6,7 @@ collection: portfolio
 
 ---
 
-## ACHEIVEMENTS
+## ACHIEVEMENTS
 
 Playing soccer at John Glenn High School, I made the All-Ohio team, was a 2-year captain, 4-year letterman, and 4-year Muskingum Valley Scholar Athlete.
 

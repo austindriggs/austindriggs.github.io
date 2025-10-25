@@ -9,9 +9,16 @@ collection: portfolio
 While in undergrad at WVU, I worked part time at [4D Tech Solutions](https://4dtechsolutions.com) as an Electronics Engineer designing, assembling, and testing printed circuit boards (PCBs) in [RedTail LiDAR](https://redtaillidar.com) systems.
 
 
+## WHAT IS LIDAR?
+
+LiDAR (Light Detection And Ranging), similar to RADAR and SONAR, uses laser pulses to measure distances with high precision, creating detailed 3D point clouds of the environment. It’s used in a variety of applications such as autonomous vehicles, surveying, and defense systems.
+
+See the [RedTail LiDAR Applications](https://www.redtaillidar.com/applications) webpage for more info.
+
+
 ## EXPERIENCE
 
-Some of my responsibilities included:
+Some of my responsibilities include:
 - Assemble and test hundreds of both prototype and production PCBs.
 - Adapt test setups for rapid development and prototyping, improving accuracy and efficiency.
 - Develop test boards and write automated testing scripts/procedures for production PCBs.
@@ -20,4 +27,4 @@ Some of my responsibilities included:
 
 ## RTL-450 RECON
 
-Throughout my time at 4D Tech, our major goal was to develop the next generation LiDAR system, the [RTL-450 Recon](https://www.redtaillidar.com/insights/redtail-lidar-exhibits-at-sof-week-2025-and-xponential-2025).
+Throughout my time at 4D Tech, our primary goal was to develop the next generation LiDAR system, the [RTL-450 Recon](https://www.redtaillidar.com/insights/redtail-lidar-exhibits-at-sof-week-2025-and-xponential-2025). I was responsible for designing roughly half of the circuit boards inside the final system, and contributed to all of them through testing, review, or documentation.
