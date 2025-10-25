@@ -7,12 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!--
-## GOALS
-
-Something here
--->
-
 ---
 
 ## EXPERIENCE

@@ -9,9 +9,9 @@ redirect_from:
 
 ## INTRODUCTION
 
-Aspiring Electrical and Software Engineer!
+I enjoy creating and building things while learning about the world around me, and have a passion for technology, circuit design, and problem solving.
 
 
 ## GOALS
 
-I strive to be the best I can be at everything I do, and I want to be in an environment that constantly pushes and challenges me.
+I strive to be the best I can be at everything I do. I seek environments that constantly push and challenge me, and that enable me to change the world around me.
