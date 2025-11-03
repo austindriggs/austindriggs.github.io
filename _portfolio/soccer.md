@@ -17,3 +17,8 @@ My highlights are on my YouTube channel: [Austin Driggs All-Ohio JGHS Soccer Hig
 ## TRAINING
 
 I individually organized, planned, and ran multiple summer-long trainings for groups of dozens of students in my community to better their technical skills, IQ, and love for the game.
+
+
+## REFEREE
+
+I am a U.S. Soccer certified referee, and have reffed dozens of games and a few tournaments around New Concord and Zanesville, Ohio.

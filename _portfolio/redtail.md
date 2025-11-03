@@ -19,6 +19,7 @@ See the [RedTail LiDAR Applications](https://www.redtaillidar.com/applications) 
 ## EXPERIENCE
 
 Some of my responsibilities include:
+- Responsible for design/development of printed circuit boards (PCBs) in RedTail LiDAR systems.
 - Assemble and test hundreds of both prototype and production PCBs.
 - Adapt test setups for rapid development and prototyping, improving accuracy and efficiency.
 - Develop test boards and write automated testing scripts/procedures for production PCBs.
