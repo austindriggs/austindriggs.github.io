@@ -13,7 +13,7 @@ author_profile: true
 
 ---
 
-### Electronics Engineer - 4D Tech Solutions (Fairmont, WV)
+### Electronics Engineer - [4D Tech Solutions](https://www.4dtechsolutions.com/) (Fairmont, WV)
 *May 2023 - Present*
 - Responsible for design/development of printed circuit boards (PCBs) in [RedTail LiDAR](http://austindriggs.github.io/portfolio/redtail) systems.
 - Assemble and test hundreds of both prototype and production PCBs.
@@ -21,12 +21,12 @@ author_profile: true
 - Develop test boards and write automated testing scripts/procedures for production PCBs.
 - Created documentation for all LiDAR PCBs’ designs, calculations, and change logs.
 
-### Electro-mechanical Engineering Intern - Quanex IGS (Cambridge, OH)
+### Electro-mechanical Engineering Intern - [Quanex IGS](https://www.quanex.com/) (Cambridge, OH)
 *May 2022 - Aug 2022*
 - Designed [PCB with microcontroller to read from PLCs](http://austindriggs.github.io/portfolio/quanex-pcb) to determine the accuracy and acceptance of the width of insulation being manufactured on tens of manufacturing lines in real time.
 - Developed [CRUD website](http://austindriggs.github.io/portfolio/quanex-website) to determine users’ RFID permissions on manufacturing line.
 
-### Tier 1 Scholar - First2 Network (Morgantown, WV)
+### Tier 1 Scholar - [First2 Network](https://first2network.org/) (Morgantown, WV)
 *Aug 2023 - April 2024*
 - Assisted in bettering STEM education and success for rural, first-gen, and low-income students.
 

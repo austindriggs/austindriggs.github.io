@@ -1,6 +1,6 @@
 ---
-title: "URC at WVU"
-excerpt: "Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC)."
+title: "PCB Design for URC at WVU"
+excerpt: "Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC) where I designed our Payload PCB."
 collection: portfolio
 ---
 
@@ -8,4 +8,10 @@ collection: portfolio
 
 I am the Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC).
 
-See more on GitHub: [wvu-urc (organization)](https://github.com/wvu-urc/).
+## Payload PCB
+
+I designed an all-purpose control and interface board designed to manage mission-critical sensors and electronics.
+
+![URC Payload PCB](/images/urc-payload-pcb.png)
+
+See more on my GitHub: [austindriggs/urc-payload-pcb](https://github.com/austindriggs/urc-payload-pcb/).
