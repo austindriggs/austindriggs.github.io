@@ -8,7 +8,7 @@ collection: portfolio
 
 While in undergrad at WVU, I worked part time at [4D Tech Solutions](https://4dtechsolutions.com) as an Electronics Engineer designing, assembling, and testing printed circuit boards (PCBs) in [RedTail LiDAR](https://redtaillidar.com) systems.
 
-> While I cannot publically display the PCBs I designed at 4D, I designed the [Payload PCB for Univeristy Rover Challenge (URC)](https://austindriggs.github.io/portfolio/urc/) for my capstone my senior year at WVU, where I applied the same design principles and practices that I learned during my time at 4D.
+> While I cannot publically display the PCBs I designed at 4D, I designed the [Payload PCB for URC](https://austindriggs.github.io/portfolio/urc/) during my senior year capstone at WVU, where I applied the same design principles and practices I learned during my time at 4D.
 
 
 ## WHAT IS LIDAR?
@@ -20,7 +20,6 @@ See the [RedTail LiDAR Applications](https://www.redtaillidar.com/applications) 
 
 ## EXPERIENCE
 
-Some of my responsibilities include:
 - Responsible for design/development of printed circuit boards (PCBs) in RedTail LiDAR systems.
 - Assemble and test hundreds of both prototype and production PCBs.
 - Adapt test setups for rapid development and prototyping, improving accuracy and efficiency.

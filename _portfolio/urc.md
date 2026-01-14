@@ -1,6 +1,6 @@
 ---
 title: "PCB Design for URC at WVU"
-excerpt: "Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC) where I designed our Payload PCB."
+excerpt: "Electronics Lead at WVU for Mars Society’s University Rover Challenge (URC) where I designed our Payload PCB. <br/><img src='/images/urc-payload-pcb.png' alt='URC Payload PCB' width='500'>"
 collection: portfolio
 ---
 
