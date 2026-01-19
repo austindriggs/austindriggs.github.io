@@ -11,6 +11,11 @@ redirect_from:
 
 I enjoy creating and building things while learning about the world around me, and have a passion for technology, circuit design, and problem solving.
 
+To see and learn more about me, click:
+- [CV](https://austindriggs.github.io/cv/): My complete experience, education, and skills.
+- [Portfolio](https://austindriggs.github.io/portfolio/): Projects I've worked on.
+- [Resume](https://austindriggs.github.io/files/resume_austindriggs.pdf): A PDF of my resume.
+
 
 ## GOALS
 
