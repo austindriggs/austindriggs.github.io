@@ -13,6 +13,12 @@ author_profile: true
 
 ---
 
+### Lead Electrical Engineer - WVU University Rover Challenge
+*Aug 2025 - Present*
+- Lead and mentored a multidisciplinary robotics team to compete in [Mars Society URC](https://urc.marssociety.org/home).
+- Designed, assembled, programmed, and tested [custom PCBs](https://austindriggs.github.io/portfolio/urc/) for mission-critical sensors.
+
+
 ### Electronics Engineer - [4D Tech Solutions](https://www.4dtechsolutions.com/) (Fairmont, WV)
 *May 2023 - Present*
 - Responsible for design/development of printed circuit boards (PCBs) in [RedTail LiDAR](http://austindriggs.github.io/portfolio/redtail) systems.
@@ -64,7 +70,7 @@ author_profile: true
 ---
 
 ### Skills
-PCB Design, KiCad, PCB Assembly, PCB Testing, Soldering (SMD and through-hole), C, Python (basics/scripting), Git, Autodesk Inventor and AutoCAD, Passion and Leadership.
+PCB Design (KiCad), PCB Assembly, PCB Testing, Soldering (SMD and through-hole), C, Python (basics/scripting), MicroPython, Git, Autodesk Inventor and AutoCAD, Passion and Leadership.
 
 ### Certifications
 Photovoltaic Installer (ETA), OSHA 10, Lean Six Sigma Yellow Belt, US Soccer Referee.

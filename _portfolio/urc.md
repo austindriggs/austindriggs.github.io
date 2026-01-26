@@ -32,6 +32,13 @@ I designed an all-purpose control and interface board to manage mission-critical
 See more on my GitHub: [austindriggs/urc-payload-pcb](https://github.com/austindriggs/urc-payload-pcb/).
 
 
+## Payload Programming
+
+I also programmed the Pi Pico using MicroPython.
+
+See more on my GitHub: [austindriggs/urc-payload-pkg](https://github.com/austindriggs/urc-payload-pkg/).
+
+
 ## KiCad Workflow
 
 I developed standardized KiCad design guidelines and implemented CI/CD pipelines to automate DRC (Design Rule Checks) and ERC (Electrical Rule Checks) and generate fabrication files (Gerbers/BOM), significantly reducing both design and manufacturing errors and allowing for streamlined development, iterations, and testing.
