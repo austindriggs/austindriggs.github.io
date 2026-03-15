@@ -9,7 +9,7 @@ redirect_from:
 
 ## INTRODUCTION
 
-I enjoy creating and building things while learning about the world around me, and have a passion for technology, circuit design, and problem solving.
+Whether its an engineering project, cooking food for friends and family, or even playing sports, I love the freedom to design, create, build things, and most of all, get better at them every day. I have a passion for technology, circuit design, and problem solving.
 
 To see and learn more about me, click:
 - [CV](https://austindriggs.github.io/cv/): My complete experience, education, and skills.
