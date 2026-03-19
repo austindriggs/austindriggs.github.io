@@ -31,4 +31,11 @@ I was responsible for designing approximately half of the PCBs inside the RTL-45
 - Test Setups and Procedures: Benchtop power supplies, oscilloscopes, load supplies, MEMS mirrors and 1550nm pulsed laser diode drivers, custom test PCBs, and automated the rapid development setups using Python/Micropython.
 - Configuration Management: Maintained notes for all designs, BOMs, library management, trace impedance and length tuning calculations, CI/CD concepts using Docker and KiBot, and version control change logs using Git/GitLab.
 
-> *While I cannot publically display the PCBs I designed at 4D, I designed the [Payload PCB for URC](https://austindriggs.github.io/portfolio/urc/) during my senior year capstone at WVU, where I applied the same design principles and practices I learned during my time at 4D.*
+
+## RESTRICTIONS AND REFERENCES
+
+*While I cannot publically display the PCBs I designed at 4D due to CUI and other restrictions, I designed the [Payload PCB for URC](https://austindriggs.github.io/portfolio/urc/) during my senior year capstone at WVU, where I applied the same design principles and practices I learned during my time at 4D.*
+
+The main processor carrier board that we designed for the RTL-450 Recon contains similar technology as [AMD's Kria KR260](https://www.amd.com/en/products/system-on-modules/kria/k26/kr260-robotics-starter-kit.html) robotics board, which is publicly viewable.
+
+An open-source project that uses similar technology is [Antmicro's open source Kria K26 Devboard](https://github.com/antmicro/kria-k26-devboard) on GitHub.
