@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "ABOUT"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## INTRODUCTION
+---
 
 Whether its an engineering project, cooking food for friends and family, or even playing sports, I love the freedom to design, create, build things, and most of all, get better at them every day. I have a passion for technology, circuit design, and problem solving.
 
