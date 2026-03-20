@@ -1,6 +1,6 @@
 ---
 title: "RedTail LiDAR"
-excerpt: "Over 3 years of experience designing, assembling, and testing printed circuit boards (PCBs) in RedTail LiDAR systems."
+excerpt: "Over 3 years of experience designing, assembling, and testing printed circuit boards (PCBs) in RedTail LiDAR systems. <br/><img src='/images/redtail.jpg' alt='RedTail LiDAR' width='500'>"
 collection: portfolio
 ---
 
