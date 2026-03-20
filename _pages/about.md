@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABOUT"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,4 +21,4 @@ I strive to be the best I can be at everything I do. I seek environments that co
 
 - My experience at [RedTail LiDAR](https://austindriggs.github.io/portfolio/redtail/), where I designed, assembled, tested, and programmed printed circuit boards (PCBs) for the next-gen RTL-450 Recon.
 - I created a [homelab](https://austindriggs.github.io/portfolio/homelab/) server and NAS for my family to host decades of photos and other applications.
-- I led the Electrical team for my WVU capstone in Mars Society's [University Rover Challenge](https://austindriggs.github.io/portfolio/urc/) (URC).
+- I led the Electrical team for my capstone at WVU in Mars Society's [University Rover Challenge](https://austindriggs.github.io/portfolio/urc/).
