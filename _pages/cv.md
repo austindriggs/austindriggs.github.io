@@ -70,7 +70,7 @@ author_profile: true
 ---
 
 ### Skills
-PCB Design (Mixed-Signal 4-12 layers in KiCad), PCB Assembly and Testing, Soldering (SMD and through-hole), C/C++, Python (basics/scripting), MicroPython, Linux (Ubuntu/Debian), Git, Docker, Autodesk Inventor and AutoCAD, Passion and Leadership.
+PCB Design (Mixed-Signal 4-12 layers in KiCad), PCB Assembly and Testing, Soldering (SMD and through-hole), C, Python (basics/scripting), MicroPython, Linux (Ubuntu/Debian), Git, Docker, Autodesk Inventor and AutoCAD, Passion and Leadership.
 
 ### Certifications
 Photovoltaic Installer (ETA), OSHA 10, Lean Six Sigma Yellow Belt, US Soccer Referee.
