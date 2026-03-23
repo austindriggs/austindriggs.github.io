@@ -1,0 +1,21 @@
+---
+title: "LogChain"
+excerpt: "LogChain continuously monitors Docker container logs, cryptographically chains each log entry to preserve an immutable record, and alerts administrators when suspicious activity or log tampering is detected."
+collection: portfolio
+---
+
+---
+
+LogChain continuously monitors Docker container logs, cryptographically chains each log entry to preserve an immutable record, and alerts administrators when suspicious activity or log tampering is detected.
+
+This system provides three main features that make it unique from other solutions:
+1. Written in Python and runs in Docker, providing flexibility for small servers, edge devices, and homelabs.
+2. Provides hashing using hashlib (SHA-265), a user interface using Flask and an alerting system using ntfy.
+3. Free and open sourced, allowing users and admins to preserve, backup, and restore their data as they please.
+
+See more on my GitHub: [austindriggs/logchain](https://github.com/austindriggs/logchain/).
+
+
+## HARDWARE SECURITY AT WVU
+
+I developed LogChain for a project in CPE493 Hardware Security at WVU, with inspiration from my [homelab](https://github.com/austindriggs/homelab).
