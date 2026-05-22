@@ -13,12 +13,6 @@ author_profile: true
 
 ---
 
-### Lead Electrical Engineer - WVU University Rover Challenge
-*Aug 2025 - Present*
-- Lead and mentored a multidisciplinary robotics team to compete in [Mars Society URC](https://urc.marssociety.org/home).
-- Designed, assembled, programmed, and tested [custom PCBs](https://austindriggs.github.io/portfolio/urc/) for mission-critical sensors.
-
-
 ### Electronics Engineer - [4D Tech Solutions](https://www.4dtechsolutions.com/) (Fairmont, WV)
 *May 2023 - Present*
 - Responsible for design/development of printed circuit boards (PCBs) in [RedTail LiDAR](http://austindriggs.github.io/portfolio/redtail) systems.
@@ -26,6 +20,11 @@ author_profile: true
 - Adapt test setups for rapid development and prototyping, improving accuracy and efficiency.
 - Develop test boards and write automated testing scripts/procedures for production PCBs.
 - Created documentation for all LiDAR PCBs’ designs, calculations, and change logs.
+
+### Lead Electrical Engineer - WVU University Rover Challenge (Morgantown, WV)
+*Aug 2025 - May 2026*
+- Lead and mentored a multidisciplinary robotics team to compete in [Mars Society URC](https://urc.marssociety.org/home).
+- Designed, assembled, programmed, and tested [custom PCBs](https://austindriggs.github.io/portfolio/urc/) for mission-critical sensors.
 
 ### Electro-mechanical Engineering Intern - [Quanex IGS](https://www.quanex.com/) (Cambridge, OH)
 *May 2022 - Aug 2022*
@@ -46,21 +45,23 @@ author_profile: true
 
 ---
 
-### West Virginia University
+### West Virginia University (Morgantown, WV)
 *Aug 2022 - May 2026*
 - Electrical Engineering (BS), Computer Engineering (BS), Computer Science (Minor).
-- Currently maintaining a 3.9 GPA.
+- Maintained a 3.9 GPA.
 - Electronics Lead at WVU for Mars Society’s [University Rover Challenge (URC)](http://austindriggs.github.io/portfolio/urc).
 - Member of IEEE Socitety at WVU.
+- First Generation Student.
 
-### Zane State College
+### Zane State College (Zanesville, OH)
 *Aug 2020 - May 2022*
 - Electro-mechanical Engineering Technology (AS).
-- Graduated Summa Cum Laude with a 4.0 GPA. First-generation student.
-
-### John Glenn High School
-*Aug 2018 - May 2022*
+- Graduated Summa Cum Laude with a 4.0 GPA.
+- First Generation Student.
 - I attended Zane State College full-time my junior and senior years of high school. 
+
+### John Glenn High School (New Concord, OH)
+*Aug 2018 - May 2022*
 - Playing [soccer](http://austindriggs.github.io/portfolio/soccer) at John Glenn High School, I made the All-Ohio team, was a 2-year captain, 4-year letterman, and 4-year Muskingum Valley Scholar Athlete. 
 
 
